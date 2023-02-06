@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lesliesibanda
 - 👀 I’m interested in PHP, JS, Elixir/Phoenix, AI, Computer Vision
 - 🌱 I’m currently learning Elixir, React Native, Machine Learning, Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lesliesibanda123@gmail.com
 
 <!---
